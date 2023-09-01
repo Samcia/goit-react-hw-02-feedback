@@ -2,3 +2,18 @@
   display: flex;
   flex-direction: column;
 }
+
+.good {
+  color: rgb(50, 200, 50);
+}
+
+.neutral {
+  color: darkgray;
+}
+
+.bad {
+  color: rgb(200, 50, 50);
+}
+.total {
+  font-weight: 900;
+}
